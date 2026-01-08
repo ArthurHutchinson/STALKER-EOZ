@@ -64,49 +64,26 @@ class CfgVehicles
 
 	class SFM_SunriseJacket1;
 	class SFM_SevaJacketV1;
-	class SFM_BerilJacket_Base;
-	class SFM_BerilVest_Stalker;
-	class SFM_VestMerc_Stalker;
+	class SFM_ZakatJacket1;
+	class SFM_WFJacket_Stalker1;
+	class SFM_SASJacket4;
+	class SFM_SASJacket5;
+	class SFM_PS5MS_Jacket_Neitral1;
 	class SFM_SSP99M_Jacket_V1_Red;
 	class SFM_SSP99M_Jacket_V2_Green;
+	class SFP_Hazmat_tors;
 	class SFMC_SunriseJacket_Duty;
 	class SFM_SevaJacketV1_Dolg1;
-	class SFM_PS5MS_Jacket_Neitral1;
-	class SFM_SASJacket5;
-	class SFM_SASJacket4;
 	class SFM_PS5MS_Jacket_Dolg1;
 	class sfm_sevajacketv1_freedumb;
 	class SFM_PS5MS_Jacket_Freedumb;
 	class SFM_ZakatJacket_Freedumb;
+	class SFM_SASJacket_Freedumb;
 	class SFM_WFJacket_Freedumb;
 	class SFM_PS5MS_Jacket_IPSF;
-	class SFM_SevaJacketV1_IPSF;
-	class SFM_SevaVestFull;
-	class SFM_SASJacket_Freedumb;
-	class SFM_SevaVestFull_Dolg1;
-	class SFM_SevaVestFull_Svoboda1;
-	class SFM_BerilVest_Stalker;
-	class SFM_VestMerc_Stalker;
-	class SFM_SSP99M_Back_Red;
-	class SFM_SSP99M_Back_Green;
-	class SFMC_SunriseVestFull_Duty_1;
-	class SFM_SevaVestFull_Dolg1;
-	class SFM_SevaVestFull_Svoboda1;
-	class SFM_BerilVest_Svoboda1;
-	class SFM_BerilVest_Base;
-	class SFM_ZakatVestFull_1;
-	class SFM_ZakatVest2_1;
-	class SFM_ZakatVest3_1;
-	class SFM_MTV_Green;
-	class SFM_WFVest_Green;
 	class SFM_MTV_Black;
-	class SFM_WFJacket_Stalker1;
-	class SFM_Bulat_Vest_Dolg;
-	class SFM_BerilVest_Voen1;
-	class SFP_Hazmat_tors;
-	class SFM_SevaVest3;
+	class SFM_SevaJacketV1_IPSF;
 	class SFM_ZakatJacket_IPSF;
-	class SFM_VestMerc_Bandit;
 
 	  ///////////
 	 // LONER //
